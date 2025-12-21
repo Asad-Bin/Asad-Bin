@@ -5,13 +5,7 @@
       <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=Asad-Bin&show_icons=true&bg_color=000000&text_color=c0c0c0&icon_color=ffffff&hide=prs,issues"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Asad-Bin&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=prs,issues,contribs" align="center"/>
-    </td>
-    <td>
       <img alt="top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-Bin&layout=compact&bg_color=000000&text_color=c0c0c0&icon_color=ffffff"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Bin&hide_border=true&theme=radical&layout=compact" align="center" /> 
     </td>
   </tr>
 </table>
