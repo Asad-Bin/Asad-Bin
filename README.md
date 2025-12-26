@@ -11,7 +11,7 @@
 </table>
 
 ## My Handles
- [![LinkedIn](https://img.shields.io/badge/Asad%20Bin%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-bin-saber/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asad%20Bin%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-bin-saber/)
 [![Codeforces](https://img.shields.io/badge/Ban.kai-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ban.kai)
 [![CodeChef](https://img.shields.io/badge/asad__bin-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asad_bin)
 [![AtCoder](https://img.shields.io/badge/Asad__Bin-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Asad_Bin)
