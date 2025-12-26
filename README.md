@@ -13,8 +13,8 @@
 ## My Handles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asad%20Bin%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-bin-saber/)
 [![Codeforces](https://img.shields.io/badge/Ban.kai-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ban.kai)
-[![CodeChef](https://img.shields.io/badge/asad__bin-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asad_bin)
-[![AtCoder](https://img.shields.io/badge/Asad__Bin-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Asad_Bin)
+[![CodeChef](https://img.shields.io/badge/asad_bin-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asad_bin)
+[![AtCoder](https://img.shields.io/badge/Asad_Bin-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Asad_Bin)
 
 
 <!-- [<img src="https://img.shields.io/badge/Asad-Bin?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) -->
