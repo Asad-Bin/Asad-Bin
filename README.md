@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=Asad-Bin&show_icons=true&bg_color=000000&text_color=c0c0c0&icon_color=ffffff&hide=prs,issues"/>
+      <img alt="my stats" width="100%" src="![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asad-Bin&show_icons=true&theme=radical)"/>
     </td>
     <td>
       <img alt="top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-Bin&layout=compact&bg_color=000000&text_color=c0c0c0&icon_color=ffffff"/>
