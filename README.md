@@ -2,14 +2,13 @@
 <table>
   <tr>
     <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Asad-Bin&show_icons=true&theme=radical" />
+      <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=Asad-Bin&show_icons=true&theme=radical"/>
     </td>
     <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Bin&layout=compact&theme=radical" />
+      <img alt="top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-Bin&layout=compact&bg_color=000000&text_color=c0c0c0&icon_color=ffffff"/>
     </td>
   </tr>
 </table>
-
 
 ## My Handles
  [![LinkedIn](https://img.shields.io/badge/Asad%20Bin%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-bin-saber/)
