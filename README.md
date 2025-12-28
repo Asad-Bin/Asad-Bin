@@ -1,27 +1,29 @@
-
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=Asad-Bin&show_icons=true&theme=radical"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Asad-Bin&show_icons=true&theme=radical&count_private=true" alt="Asad-Bin's GitHub Stats" />
     </td>
-    <td>
-      <img alt="top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-Bin&layout=compact&bg_color=000000&text_color=c0c0c0&icon_color=ffffff"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-Bin&layout=compact&bg_color=000000&text_color=c0c0c0&icon_color=ffffff&hide=html,css" alt="Asad-Bin's Top Languages" />
     </td>
   </tr>
 </table>
 
-## My Handles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asad%20Bin%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-bin-saber/)
-[![Codeforces](https://img.shields.io/badge/Ban.kai-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ban.kai)
-[![CodeChef](https://img.shields.io/badge/asad_bin-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asad_bin)
-[![AtCoder](https://img.shields.io/badge/Asad_Bin-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Asad_Bin)
-[![Kaggle](https://img.shields.io/badge/Asad_Bin-222222?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asadbin)
-
-
-<!-- [<img src="https://img.shields.io/badge/Asad-Bin?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) -->
-
-<!--  CONTRIBUTION AND STREAK BLOCK 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asad-Bin&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)]((https://github.com/Asad-Bin/github-readme-stats)) -->
- 
- <!--  TOP LANGUAGES STATISTICS -->
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Bin&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Asad-Bin/github-readme-stats) -->
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/asad-bin-saber/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asad%20Bin%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/Ban.kai">
+    <img src="https://img.shields.io/badge/Codeforces-Ban.kai-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/asad_bin">
+    <img src="https://img.shields.io/badge/CodeChef-asad__bin-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://atcoder.jp/users/Asad_Bin">
+    <img src="https://img.shields.io/badge/AtCoder-Asad__Bin-222222?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
+  </a>
+  <a href="https://www.kaggle.com/asadbin">
+    <img src="https://img.shields.io/badge/Kaggle-Asad__Bin-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
