@@ -15,6 +15,7 @@
 [![Codeforces](https://img.shields.io/badge/Ban.kai-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ban.kai)
 [![CodeChef](https://img.shields.io/badge/asad_bin-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asad_bin)
 [![AtCoder](https://img.shields.io/badge/Asad_Bin-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Asad_Bin)
+[![Kaggle](https://img.shields.io/badge/Asad_Bin-222222?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asadbin)
 
 
 <!-- [<img src="https://img.shields.io/badge/Asad-Bin?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) -->
