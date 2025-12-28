@@ -1,10 +1,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-mocha-omega-52.vercel.app/api?username=Asad-Bin&show_icons=true&theme=radical&count_private=false" alt="Asad-Bin's GitHub Stats" />
+      <img src="https://github-readme-stats-htr11np3i-asad-bins-projects.vercel.app/api?username=Asad-Bin&show_icons=true&theme=radical&count_private=false" alt="Asad-Bin's GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-mocha-omega-52.vercel.app/api/top-langs?username=Asad-Bin&layout=compact&count_private=false&bg_color=000000&text_color=c0c0c0&icon_color=ffffff&hide=html,css" alt="Asad-Bin's Top Languages" />
+      <img src="https://github-readme-stats-htr11np3i-asad-bins-projects.vercel.app/api/top-langs?username=Asad-Bin&layout=compact&count_private=false&bg_color=000000&text_color=c0c0c0&icon_color=ffffff&hide=html,css" alt="Asad-Bin's Top Languages" />
     </td>
   </tr>
 </table>
